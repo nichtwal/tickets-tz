@@ -1,0 +1,20 @@
+.filter {
+    margin-top: 50px;
+    h2 {
+        font-size: 18px;
+        padding:10px 0 20px;
+    }
+    &--container {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    
+        &__wrapper {
+            display:flex;
+            align-items: center;
+             p {
+                margin-left: 5px;
+             }
+        }
+    }
+}

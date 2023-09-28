@@ -1,0 +1,22 @@
+.price {
+    margin-top: 50px;
+    h2 {
+        font-size: 18px;
+        padding:10px 0 20px;
+    }
+    &--container {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    
+        &__wrapper {
+            margin: 10px 0 0;
+            display:flex;
+            align-items: center;
+            input {
+                margin-left: 5px;
+                padding: 2px 7px;
+            }
+        }
+    }
+}

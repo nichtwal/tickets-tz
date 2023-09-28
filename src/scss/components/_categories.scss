@@ -1,0 +1,17 @@
+.categories {
+    margin: 30px 0 ;
+    h2 {
+        font-size: 18px;
+        padding:10px 0 20px;
+    }
+
+    &--item {
+        display: flex;
+        align-items: center;
+        margin: 7px 0;
+
+        input {
+            margin-right: 7px;
+        }
+    }
+}

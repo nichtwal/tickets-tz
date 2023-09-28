@@ -1,0 +1,17 @@
+.button {
+    margin: 10px 0;
+    text-transform: uppercase;
+    padding: 10px 0;
+    border: none;
+    color: $background;
+    font-weight: 700;
+    background: $orange;
+    cursor: pointer;
+}
+
+.loadmore {
+   padding:10px 0;
+   width: 300px;
+   margin: 10px 0 30px;
+  cursor: pointer;
+}

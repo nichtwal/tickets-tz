@@ -25,7 +25,7 @@
 1. Клонируйте репозиторий на свой компьютер:
 
 ```bash
-git clone https://github.com/your-username/flight-ticket-app.git
+git clone https://github.com/nichtwal/flight-ticket-app.git
 
 2. Перейдите в директорию проекта:
 
